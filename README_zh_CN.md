@@ -40,4 +40,4 @@
 
 ## 运行截图
 
-![运行截图](screenshot.png)
+![运行截图](screenshot.jpg)
