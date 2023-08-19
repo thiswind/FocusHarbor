@@ -4,6 +4,8 @@
 
 This is a simple tomato clock timer, specifically designed for macOS, to help you manage your working time effectively. The core feature is a tomato clock with voice prompts. When the time is up, it will remind the user in Chinese (Mandarin) to perform the operation.
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 1. First, make sure Python 3 is installed on your system.
