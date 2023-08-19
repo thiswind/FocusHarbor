@@ -2,7 +2,7 @@
 
 - [简体中文](README_zh_CN.md)
 
-This is a simple tomato clock timer to help you manage your working time effectively. The core feature is a tomato clock with voice prompts. When the time is up, it will remind the user in Chinese (Mandarin) to perform the operation.
+This is a simple tomato clock timer, specifically designed for macOS, to help you manage your working time effectively. The core feature is a tomato clock with voice prompts. When the time is up, it will remind the user in Chinese (Mandarin) to perform the operation.
 
 ## Installation
 
@@ -33,3 +33,7 @@ This is a simple tomato clock timer to help you manage your working time effecti
 - ASCII art number displaying the remaining time.
 - Encouraging sentences after the end of the tomato time.
 - Simple controls, you can press the 'q' key to exit at any time.
+
+## Note
+This program has been tested and confirmed to work on macOS Ventura.
+
