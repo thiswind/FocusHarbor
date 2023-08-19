@@ -41,4 +41,4 @@ This program has been tested and confirmed to work on macOS Ventura.
 
 ## Screenshot
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpg)
