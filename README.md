@@ -1,6 +1,6 @@
-# Tomato Timer
+# Focus Harbor
 
-- [简体中文](REAME_zh_CN.md)
+- [简体中文](README_zh_CN.md)
 
 This is a simple tomato clock timer to help you manage your working time effectively. The core feature is a tomato clock with voice prompts. When the time is up, it will remind the user in Chinese (Mandarin) to perform the operation.
 
