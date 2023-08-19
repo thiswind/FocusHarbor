@@ -11,7 +11,7 @@ import pyfiglet  # type: ignore
 # 初始化 ASCII 字体渲染器
 figlet = pyfiglet.Figlet(font="doh")
 
-caffeinate_process = subprocess.Popen(["caffeinate", "-i"])
+caffeinate_process = subprocess.Popen(["caffeinate", "-d"])
 
 # 全局变量
 completed_tomatoes = 0
